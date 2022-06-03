@@ -26,4 +26,4 @@
  $ cd DS
 
 
- python DS.py
+ $ python DS.py
